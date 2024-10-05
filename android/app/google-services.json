@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "744280216992",
+    "project_id": "fyp-animalcare",
+    "storage_bucket": "fyp-animalcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744280216992:android:0a92bf39b5bea7920f40c5",
+        "android_client_info": {
+          "package_name": "com.example.animal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Kn025auj9KzNpebEkCttoSdiNuo9nXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744280216992:android:a6aa1374c6cfce790f40c5",
+        "android_client_info": {
+          "package_name": "com.example.fyp_animalcare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Kn025auj9KzNpebEkCttoSdiNuo9nXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744280216992:android:dc5e4de948ae90b60f40c5",
+        "android_client_info": {
+          "package_name": "com.fyp.animalcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Kn025auj9KzNpebEkCttoSdiNuo9nXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
